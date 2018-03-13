@@ -6,7 +6,7 @@ and MySQL, nodeJS and the Linux Shell for the backend.
 
 I will add more functionality when I feel like it.
 
-![screenshot](https://github.com/RealDekkia/simpleInternetSpeedMonitor/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/RealDekkia/simpleInternetSpeedMonitor/master/screenshot.png)
 
 ## Setup
 
