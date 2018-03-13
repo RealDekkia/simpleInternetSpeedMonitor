@@ -1,0 +1,9 @@
+ {
+     "database": {
+         "host": "localhost",
+         "user": "username",
+         "password": "password",
+         "databaseName": "internetspeed"
+     },
+     "serverPort": 8080
+ }
